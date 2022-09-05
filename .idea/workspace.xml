@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c9585e4-c541-4ba1-b15f-e43b8326ba2c" name="Changes" comment="" />
+    <list default="true" id="8c9585e4-c541-4ba1-b15f-e43b8326ba2c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DemoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chromePages/chromePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chromePages/chromePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chromeSteps/chromeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chromeSteps/chromeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hooks/TakesScreenshots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hooks/WebDriverManager.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,19 +43,27 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kangs/Downloads/cucumber-format-slf4j-master&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/git_/MavenCS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_\MavenCS\src\test\java\hooks" />
       <recent name="E:\git_\MovenCS\src\test\java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git_\MavenCS\src\main\resources" />
+      <recent name="E:\git_\MavenCS\src\test\resources" />
+      <recent name="E:\git_\MavenCS" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hooks" />
       <recent name="chrome" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DemoRunner">
+  <component name="RunManager" selected="JUnit.DemoRunner (1)">
     <configuration name="Scenario: web side load" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/chrome/chrome.feature" />
@@ -68,6 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenCS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MovenCS" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DemoRunner (1)" />
         <item itemvalue="JUnit.DemoRunner" />
         <item itemvalue="Cucumber Java.Scenario: web side load" />
       </list>
